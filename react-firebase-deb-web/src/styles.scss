@@ -1,0 +1,15 @@
+
+.page_container{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .header_wrapper{
+        font-size: 2.5em;
+        color: white;
+        text-align: center;
+    }
+}
